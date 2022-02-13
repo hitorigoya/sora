@@ -1,0 +1,22 @@
+/*
+Theme Name: Sora
+Author: Red
+Author URI: https://www.google.com/
+Description: Soraは最小限のWordPressテーマです
+Version: 1.0
+*/
+
+header {
+    display: grid;
+    justify-items: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+}
